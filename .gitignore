@@ -2,3 +2,6 @@
 **/.venv/
 .env
 **/.env
+# Archivos intermedios de segmentacion (datos de clientes/ventas, se regeneran con run_v3_3V_4V.py)
+Segmentacioon/**/_work/
+*.pkl
