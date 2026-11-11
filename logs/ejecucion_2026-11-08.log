@@ -1,0 +1,8 @@
+2026-11-08 16:08:53 - === Inicio de ejecucion diaria ===
+2026-11-08 16:08:54 - Ejecutando: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-08 16:16:03 - OK: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-08 16:16:03 - Ejecutando: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-08 16:18:18 - OK: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-08 16:18:18 - Ejecutando: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-08 16:19:52 - OK: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-08 16:19:52 - === Fin de ejecucion diaria ===

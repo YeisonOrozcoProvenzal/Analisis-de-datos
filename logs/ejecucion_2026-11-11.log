@@ -1,0 +1,24 @@
+2026-11-11 10:00:02 - === Inicio de ejecucion diaria ===
+2026-11-11 10:00:02 - Ejecutando: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 10:07:43 - OK: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 10:07:43 - Ejecutando: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 10:09:52 - OK: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 10:09:52 - Ejecutando: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 10:12:24 - OK: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 10:12:24 - === Fin de ejecucion diaria ===
+2026-11-11 12:15:21 - === Inicio de ejecucion diaria ===
+2026-11-11 12:15:22 - Ejecutando: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 12:22:30 - OK: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 12:22:30 - Ejecutando: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 12:28:48 - OK: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 12:28:48 - Ejecutando: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 12:30:40 - OK: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 12:30:40 - === Fin de ejecucion diaria ===
+2026-11-11 15:53:38 - === Inicio de ejecucion diaria ===
+2026-11-11 15:53:38 - Ejecutando: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 15:58:08 - OK: LimpiezaClientes\Limpieza_Clientes.ipynb
+2026-11-11 15:58:08 - Ejecutando: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 16:02:31 - OK: Deduplicacion Clientes\TABLA_MASTER_ID.ipynb
+2026-11-11 16:02:31 - Ejecutando: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 16:03:44 - OK: LimpiezaClientes\Limpieza_Contacto_Clientes.ipynb
+2026-11-11 16:03:44 - === Fin de ejecucion diaria ===
